@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div>doing some weird testing now lol</div>
+      <div style={{fontWeight:'bold', fontSize:'4em'}}>cody said to change this crappy text</div>
     </>
   );
 }
